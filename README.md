@@ -6,8 +6,8 @@ Based on [openchoreo/samples/component-alerts](https://github.com/openchoreo/ope
 
 ## Prerequisites
 
-- Kubernetes cluster with OpenChoreo and observability plane installed ([Single cluster setup guide](https://openchoreo.dev/docs/next/getting-started/try-it-out/on-self-hosted-kubernetes/))
-- RCA agent configured ([Configuration guide](https://openchoreo.dev/docs/next/operations/rca-agent/))
+- Kubernetes cluster with OpenChoreo(0.13) and observability plane installed ([Single cluster setup guide](https://openchoreo.dev/docs/getting-started/try-it-out/on-self-hosted-kubernetes/))
+- RCA agent configured ([Configuration guide](https://openchoreo.dev/docs/operations/rca-agent/))
 - `kubectl` configured
 
 ## Setup
