@@ -48,9 +48,6 @@ You should get get 2/3 RCA reports generated under the project view.
 ## Cleanup
 
 ```bash
-kubectl delete -f failure-scenario-setup.yaml
-kubectl delete -f components/
 kubectl delete -f alert-notification-channels.yaml
-kubectl delete -f alert-rule-trait.yaml
 kubectl delete -f gcp-microservice-demo-project.yaml
 ```
